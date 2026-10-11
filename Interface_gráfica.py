@@ -3,7 +3,7 @@ import tkinter as tk
 import os
 from tkinter import filedialog, scrolledtext, messagebox
 from tkinter import ttk
-from AutoReCleaner_BetaV import (
+from AutoReCleaner import (
     encontrar_pasta,
     organizar,
     remover_duplicatas,

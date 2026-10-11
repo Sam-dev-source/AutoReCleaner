@@ -1,6 +1,6 @@
 # AutoReCleaner
 #
-=== Essa é uma versão mais antiga do AutoReCleaner, estou em fase de testes do app e logo será lançado! ===
+=== Essa é uma versão mais recente do AutoReCleaner ===
 
 Essa versão do em fase de testes do app, ou seja, essa é a versão Beta, definitivamente não acredito que mude muito, mas houve adições como funções novas, preferências do usuário e muito mais! Adicionei ao projeto funções mais preocupadas nas opções que o usuário pode escolher e condições para organizar melhor as pastas de acordo com cada explorador de arquivos de cada computador usando de regras personalizadas. Também adicionei forma do app monitorar mudanças em tempo real com o watchdog, acredito que agora o usuário tenha mais liberdade no uso. É disponível para usuários de Windows. Se o Windows der algum tipo de aviso no momento em que for abrir o app, não se preocupe pois o Windows estranha com tools e apps "que o sistema acha inseguro!". Ainda não recebi demanda de pessoas do linux, mas pretendo fazer uma versão também para Linux e posteriormente para Mac (Se Possível kkkkkk)
 

@@ -23,6 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           if (Test-Path requirements.txt) { pip install -r requirements.txt }
           pip install pyinstaller
+          pip install watchdog
 
       - name: Compilar com PyInstaller
         run: pyinstaller --onefile --windowed --name OrganizadorApp MainApp.py
